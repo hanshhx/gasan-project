@@ -13,9 +13,9 @@ export default function Home() {
   // 메인 슬라이더 이미지 인덱스 상태
   const [bgIndex, setBgIndex] = useState(0);
   const heroImages = [
-    "/images/hero-6.jpg",
-    "/images/hero-4.jpg",
-    "/images/hero-5.jpg"
+    "/images/hero-7.jpg",
+    "/images/hero-8.jpg",
+    "/images/hero-9.jpg"
   ];
 
   // 4.5초마다 배경 이미지 자동 전환
