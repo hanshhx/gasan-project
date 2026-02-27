@@ -58,7 +58,7 @@ export default function Home() {
     e.preventDefault();
     const formData = new FormData(formRef.current!);
     
-    formData.append("access_key", "257d3b0d-8f67-491b-ab80-e6009aa1fced"); 
+    formData.append("access_key", "ab9a4476-07ee-4fcc-b4e6-d159667306c1"); 
     formData.append("subject", "🚨 [가산3차 SK V1] 새로운 관심고객 상담 신청이 접수되었습니다!");
     formData.append("from_name", "가산3차 SK V1 웹사이트");
     formData.append("title", "✨ 신규 VIP 관심고객 상담 신청이 도착했습니다.");
